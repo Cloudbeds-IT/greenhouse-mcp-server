@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "greenhouse": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--directory",
+        "/path/to/greenhouse-mcp-server",
+        "-m",
+        "greenhouse_mcp"
+      ]
+    }
+  }
+}
